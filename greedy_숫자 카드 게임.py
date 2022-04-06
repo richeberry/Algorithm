@@ -1,5 +1,6 @@
 # 이것이 코딩테스트다 _ greedy  숫자 카드 게임
 
+
 n,m = map(int, input().split())
 mat = [list(map(int, input().split())) for i in range(n)]
 

@@ -1,5 +1,5 @@
 # 이것이 코딩테스트다 _ Greedy 큰 수의 법칙
-# 직접 푼 알고리즘! 
+
 
 n,m,k = map(int, input().split())
 lst = list(map(int, input().split()))
