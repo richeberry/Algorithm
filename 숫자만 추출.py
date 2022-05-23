@@ -15,3 +15,7 @@ for i in range(1, num+1):
 
 print(num)
 print(divisor)
+
+
+# 인프런 풀이
+if i.isdecimal() # 사용
