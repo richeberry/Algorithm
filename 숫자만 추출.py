@@ -18,4 +18,4 @@ print(divisor)
 
 
 # 인프런 풀이
-if i.isdecimal() # 사용
+# if i.isdecimal() 사용
