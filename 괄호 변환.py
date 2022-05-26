@@ -4,5 +4,12 @@ w = ")("
 l = 0
 r = 0
 # 균형잡힌 문자열 판별
-print(w.count("("))
-print(w.count(")"))
+for i in w:
+    l = 0
+    r = 0
+    if i == "("
+    l += w.count("(")
+
+    r += w.count(")")
+
+# 올바른 문자열 판별
