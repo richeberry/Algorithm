@@ -31,3 +31,6 @@ def stringback(s, x, y):
 print(stringback(s, '0', '1'))
 
 # 연속된 문자열이 아닐 경우 연속 된 것만 바꾸는 것 
+
+for i in s:
+    s.find('1', i, s[-1])
