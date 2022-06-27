@@ -1,0 +1,4 @@
+# Programmers _ Lv2
+
+SELECT COUNT(DISTINCT NAME)
+FROM ANIMAL_INS;

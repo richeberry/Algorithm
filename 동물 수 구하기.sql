@@ -1,0 +1,4 @@
+# Programmers _ Lv2
+
+SELECT COUNT(ANIMAL_ID)
+FROM ANIMAL_INS;
