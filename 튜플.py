@@ -24,11 +24,6 @@ for i in range(len(data)): # 빈 리스트 제거
         break
 
 print(answer)
-for i in data:
-    print(i)
-    for j in i:
-        print(j)
-        if int(j) not in answer:
-            answer.append(int(j))
+
 
 print(answer)
