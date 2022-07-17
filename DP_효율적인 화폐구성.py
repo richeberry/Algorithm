@@ -5,7 +5,7 @@ array = []
 for i in range(n):
     array.append(int(input()))
 
-# 한 번 계ㄴ된 결과를 저장하기 위한 DP 테이블 초기화
+# 한 번 계산된 결과를 저장하기 위한 DP 테이블 초기화
 dp = [10001] * (m+1)
 
 # 다이나믹  프로그래밍 (바텀업)
