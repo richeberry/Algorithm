@@ -1,4 +1,4 @@
-# Programmers _ Lv3
+# Programmers _ Lv2
 
 SELECT ANIMAL_ID, NAME, SEX_UPON_INTAKE
 FROM ANIMAL_INS

@@ -1,4 +1,4 @@
-# Programmers _ Lv3
+# Programmers _ Lv2
 
 -- CASE 풀이 --
 SELECT ANIMAL_ID, NAME, 

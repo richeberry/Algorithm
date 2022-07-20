@@ -1,4 +1,4 @@
-# Programmers _ Lv3
+# Programmers _ Lv2
 
 SELECT ANIMAL_ID, NAME, DATE_FORMAT(DATETIME, '%Y-%m-%d') AS 날짜
 -- %Y처럼 대문자이면 2016, %y처럼 소문자이면 16
