@@ -21,3 +21,5 @@ def solution(prices):
 
     return answer
 
+
+# stack
